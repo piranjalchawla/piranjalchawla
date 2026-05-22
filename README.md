@@ -1,3 +1,3 @@
 this is my first github repository
 <br>
-author - piranjal
+author - piranjal(chawla)
